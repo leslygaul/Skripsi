@@ -164,7 +164,7 @@ export default function CheckoutPage() {
           description: `Order ID: ${idPesanan}`,
         });
         clearCart();
-        router.push(`/order/${idPesanan}`);
+        router.push('/');
       },
       onPending: (result) => {
         toast({
