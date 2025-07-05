@@ -348,7 +348,7 @@ export default function CheckoutPage() {
                           <FormLabel>Kota</FormLabel>
                           <FormControl>
                             <Input 
-                              placeholder="Jakarta" 
+                              placeholder="Kalimantan barat" 
                               {...field} 
                               autoComplete="address-level2"
                             />
@@ -370,11 +370,11 @@ export default function CheckoutPage() {
                               </SelectTrigger>
                             </FormControl>
                             <SelectContent>
-                              <SelectItem value="jakarta">DKI Jakarta</SelectItem>
-                              <SelectItem value="jabar">Jawa Barat</SelectItem>
-                              <SelectItem value="jateng">Jawa Tengah</SelectItem>
-                              <SelectItem value="jatim">Jawa Timur</SelectItem>
-                              <SelectItem value="banten">Banten</SelectItem>
+                              <SelectItem value="Kalimantan Barat">Pontianak</SelectItem>
+                              <SelectItem value="Mempawah">Mempawah</SelectItem>
+                              <SelectItem value="Singkawang">Singkwang</SelectItem>
+                              <SelectItem value="Sambas">Sambas</SelectItem>
+                              <SelectItem value="Jawai">Jawai</SelectItem>
                             </SelectContent>
                           </Select>
                           <FormMessage />

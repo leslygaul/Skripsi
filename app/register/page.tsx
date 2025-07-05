@@ -121,9 +121,9 @@ export default function RegisterPage() {
         <Card>
           <CardHeader className="space-y-1">
             <div className="flex items-center justify-center mb-4">
-              <div className="h-12 w-12 bg-primary rounded-lg flex items-center justify-center">
+              <div className="h-8 w-8 rounded-lg flex items-center justify-center bg-gradient-to-br from-blue-300 to-purple-600">
                 <span className="text-primary-foreground font-bold text-lg">
-                  TO
+                  GN
                 </span>
               </div>
             </div>

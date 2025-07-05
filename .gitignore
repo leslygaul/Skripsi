@@ -25,3 +25,6 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+sw.js
+workbox-27e88642.js

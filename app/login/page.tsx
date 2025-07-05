@@ -123,7 +123,7 @@ export default function LoginPage() {
             <div className="flex items-center justify-center mb-4">
               <div className="h-12 w-12 bg-primary rounded-lg flex items-center justify-center">
                 <span className="text-primary-foreground font-bold text-lg">
-                  TO
+                  GN
                 </span>
               </div>
             </div>
